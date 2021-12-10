@@ -1,0 +1,291 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"data",
+				"datapenerimaanberas"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"tet",
+				"text-right"
+			],
+			[
+				"nik",
+				"NIK"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"mysqli_f",
+				"mysqli_fetch"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			],
+			[
+				"stude",
+				"student-name"
+			],
+			[
+				"studen",
+				"student_code"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"end",
+				"endfor"
+			],
+			[
+				"cel",
+				"cellspacing\tAttr"
+			],
+			[
+				"Su",
+				"substr"
+			],
+			[
+				"nama",
+				"nama_belakang"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"var",
+				"var_dump"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/databeras/index.php",
+		"/C/xampp/htdocs/databeras/penerimaanberas.php",
+		"/C/xampp/htdocs/databeras/ubahpengambilan.php",
+		"/C/xampp/htdocs/databeras/ubhpengambilan.php",
+		"/C/xampp/htdocs/databeras/tpengambilan.php",
+		"/C/xampp/htdocs/databeras/tambahpengambilan.php",
+		"/C/xampp/htdocs/databeras/pengambilanberas.php",
+		"/C/xampp/htdocs/databeras/hapuspengambilan.php",
+		"/C/xampp/htdocs/databeras/tambahpenerimaan.php",
+		"/C/xampp/htdocs/databeras/ubahpenerimaan.php",
+		"/C/xampp/htdocs/databeras/login.php",
+		"/D/Bootstrap/startbootstrap-sb-admin-2-master/tables.html",
+		"/D/Bootstrap/startbootstrap-sb-admin-2-master/login.html",
+		"/C/xampp/htdocs/databeras/ubhpenerimaan.php",
+		"/C/xampp/htdocs/pengelolaandata/update.php",
+		"/C/xampp/htdocs/databeras/tpenerimaan.php",
+		"/C/xampp/htdocs/pengelolaandata/read.php",
+		"/C/xampp/htdocs/databeras/hapuspenerimaan2.php",
+		"/C/xampp/htdocs/databeras/hapuspenerimaan.php",
+		"/C/xampp/htdocs/databeras/koneksi.php",
+		"/C/xampp/htdocs/akademik/kelas.php",
+		"/C/xampp/htdocs/akademik/tambahkelas.php",
+		"/D/Bootstrap/startbootstrap-sb-admin-2-master/index.html",
+		"/C/xampp/htdocs/databeras/siswa.php",
+		"/D/xampp/websitecrud/Order.php",
+		"/C/xampp/htdocs/akademik/siswa.php",
+		"/C/xampp/htdocs/akademik/tambahsiswa.php",
+		"/C/xampp/htdocs/pengelolaandata/create.php",
+		"/C/xampp/htdocs/pengelolaandata/functions.php",
+		"/C/xampp/htdocs/akademik/tkelas.php",
+		"/C/xampp/htdocs/pengelolaandata/index.php",
+		"/C/xampp/htdocs/akademik/jurusan.php",
+		"/C/xampp/htdocs/akademik/koneksi.php",
+		"/C/xampp/htdocs/akademik/index.php",
+		"/D/Bootstrap/startbootstrap-sb-admin-2-master/cards.html",
+		"/D/Bootstrap/startbootstrap-sb-admin-2-master/blank.html",
+		"/C/xampp/htdocs/2si/student-delete.php",
+		"/C/xampp/htdocs/2si/student-update.php",
+		"/C/xampp/htdocs/2si/student-input.php",
+		"/D/Latihan Coding/My Website/website1.html",
+		"/C/xampp/htdocs/pegawai/library/database.php",
+		"/C/xampp/htdocs/pegawai/library/config.php",
+		"/C/xampp/htdocs/pegawai/config.php",
+		"/C/xampp/htdocs/phpdasar/pertemuan2/index.php",
+		"/D/Latihan Coding/HTML/Website Latihan/Latihan Formulir1.html",
+		"/D/Latihan Coding/HTML/Website Latihan/Jadwal Kuliah.html",
+		"/D/Latihan Coding/HTML/Website Latihan/Website Latihan.html",
+		"/D/Latihan Coding/HTML/Mentahan HTML dan PHP.php",
+		"/D/Latihan Coding/HTML/Website Latihan.html",
+		"/D/Latihan Coding/HTML/latihan5.html",
+		"/D/Latihan Coding/HTML/Latihan Formulir1.html",
+		"/D/Latihan Coding/HTML/Jadwal Kuliah.html",
+		"/D/Latihan Coding/Sublime Text/Latihan1.html",
+		"/D/Latihan Coding/HTML/Latihan php2.html",
+		"/D/Latihan Coding/HTML/Latihan php1.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
